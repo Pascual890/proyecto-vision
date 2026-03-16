@@ -1,5 +1,6 @@
-# proyecto-vision
-Proyecto mitad de semestre visión artificial. Pascualtobias Rendon
+# Proyecto mitad de semestre visión artificial
+
+Pascualtobias Rendon
 
 Este es el proyecto de mitad de semestre para la asignatura de Visión Artificial. El sistema procesa video en tiempo real para generar un campo de partículas reactivo basado en el movimiento del usuario.
 
