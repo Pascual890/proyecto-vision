@@ -24,6 +24,7 @@ Threshold: Calibra la sensibilidad de detección según la iluminación ambienta
 ### Tecnologías
 p5.js
 
-## Documento
+## Documento y video demo
 
 https://docs.google.com/document/d/13OHF1HaL29682gdxsPtt3XHhOakCPkB-/edit?usp=sharing&ouid=118079617542395418338&rtpof=true&sd=true
+https://youtu.be/itgXYamjTyM
